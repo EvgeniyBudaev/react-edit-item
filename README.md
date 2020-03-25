@@ -4,6 +4,7 @@
 ![Image alt](https://github.com/EvgeniyBudaev/react-edit-item/raw/master/public/images/readme2.jpg)
 
 In the project directory, you can run:
+### `npm install`
 ### `npm i react-bootstrap bootstrap`
 ### `npm i normalize.css`
 ### `npm install node-sass`
